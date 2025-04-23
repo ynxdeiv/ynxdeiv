@@ -1,7 +1,5 @@
-# Hello, I'm Deivid 👋🏾  
-### I.T Student at UFBA  
+#  Deivid 👋🏾  
 
-I want to learn to program and explore a little about cybersecurity 👨🏽‍💻  
 
 ![Deivid's GitHub stats](https://github-readme-stats.vercel.app/api?username=ynxdeiv&show_icons=true&theme=transparent)
 
