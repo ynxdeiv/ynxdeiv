@@ -1,8 +1,9 @@
 # 👋🏾 Olá, eu sou o Deivid!
 
-![Deivid's GitHub stats](https://github-readme-stats.vercel.app/api?username=ynxdeiv&show_icons=true&theme=transparent)
+![Deivid's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ynxdeiv&show_icons=true&theme=radical&hide_border=true)
 
----
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ynxdeiv&layout=compact&theme=radical&hide_border=true)
+
 
 ## 🚀 Tecnologias em Aprendizado
 
