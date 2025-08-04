@@ -1,6 +1,9 @@
-# Olá, me chamoDeivid!
+# 👋🏾 Olá, eu sou o Deivid!
 
-Faço Sistemas de Informação na Universidade Federal da Bahia (UFBA) e atualmente estou focado em me aprofundar em desenvolvimento web para me tornar um desenvolvedor full-stack.
+### 🎓 Formação e Carreira
+
+Sou estudante de **Sistemas de Informação** na **Universidade Federal da Bahia (UFBA)** e, atualmente, estou focado em me aprofundar em **desenvolvimento web** com o objetivo de me tornar um **desenvolvedor full-stack**.
+
 ---
 
 ### 🏆 Conquistas e Atividade no GitHub
@@ -43,7 +46,6 @@ Atualmente, estou focado em aprender e evoluir com as seguintes tecnologias:
 
 ### 📬 Vamos nos conectar!
 
-Ficarei feliz em me conectar com você. Vamos trocar experiências!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deivcst/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/prodbydeiv)
