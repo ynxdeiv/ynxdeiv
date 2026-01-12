@@ -64,7 +64,7 @@
 
 
 
-<div align="center">**`nobody beats the patient guy`**
+<div align="center"><i>nobody beats the patient guy
 </div>
 
 <div align="center">
