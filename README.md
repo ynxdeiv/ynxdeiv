@@ -17,7 +17,7 @@
     </td>
     <td align="center" width="50%">
       <i>
-        Developer at <a href="https://www.linkedin.com/company/aiialabs/mycompany/">aiialabs</a>
+        developer at <a href="https://www.linkedin.com/company/aiialabs/mycompany/">aiialabs</a>
     </td>
   </tr>
  
