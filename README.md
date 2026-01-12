@@ -11,11 +11,12 @@
   
   <tr>
     <td align="center" width="50%">
-      <b>🇧🇷 Location</b><br/>
-      Brazil (UTC -03:00)
+      <p>location</b><br/>
+      brazil
+      </p>
     </td>
     <td align="center" width="50%">
-      <b>💼 Work</b><br/>
+      <i>
         Developer at <a href="https://www.linkedin.com/company/aiialabs/mycompany/">aiialabs</a>
     </td>
   </tr>
@@ -71,6 +72,7 @@
 <img width="348" height="1162" alt="{A472021F-2A5C-42CF-8F60-13CE3F597216}" src="https://preview.redd.it/can-yall-comment-all-the-emoji-memes-from-her-under-here-v0-btnd430a6i3f1.jpeg?width=720&format=pjpg&auto=webp&s=69ed63ae63b94350580bddad8110f09f55ddad23" />
 
 </div>
+<div align="center">
  check out my website(https://.com)!!
 
 </div>
