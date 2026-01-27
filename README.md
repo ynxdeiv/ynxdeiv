@@ -17,7 +17,7 @@
     </td>
     <td align="center" width="50%">
       <i>
-        software developer at <a href="https://www.linkedin.com/company/aiialabs/mycompany/">aiialabs</a>
+        ai engineer at <a href="https://www.linkedin.com/company/aiialabs/mycompany/">aiialabs</a>
     </td>
   </tr>
  
