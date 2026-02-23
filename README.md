@@ -81,7 +81,7 @@ software engineer at
 </p>
 
 <p align="center">
-  <img src="https://media.tenor.com/951634117196491238/tenor.gif" width="300"/>
+  <img src="https://media1.tenor.com/m/DTTiMAejqeYAAAAd/chuu-popipo.gif" width="300"/>
 </p>
 
 ---
