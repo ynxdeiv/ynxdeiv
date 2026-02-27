@@ -1,4 +1,4 @@
-<h1 align="center">software engineer</h1>
+<h1 align="center">genai engineer</h1>
 
 <p align="center">
   <img src="https://i.pinimg.com/736x/ad/66/7e/ad667e3591e908639096dda02e1bceba.jpg" width="100%" />
