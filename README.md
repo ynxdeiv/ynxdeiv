@@ -118,5 +118,5 @@ genai engineer at
 ---
 
 <p align="center">
-  check out my website: [https://yourwebsite.com](https://www.deiv.com.br)
+  check out my website: https://www.deiv.com.br
 </p>
