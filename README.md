@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media1.tenor.com/m/UfxNNaklU20AAAAC/pinkpantheress-pinkpanther.gif" width="100%" />
+  <img src="https://media1.tenor.com/m/UfxNNaklU20AAAAC/pinkpantheress-pinkpanther.gif" width="100%" height="200" />
 </p>
 
 <p align="center">
@@ -22,7 +22,7 @@
   <tr>
     <td align="center" valign="top">
       <sub><b>genai</b></sub><br><br>
-      <img src="https://img.shields.io/badge/openai-0d1117?style=flat-square&logo=openai&logoColor=ED93B1" />
+      <img src="https://custom-icon-badges.demolab.com/badge/openai-0d1117?style=flat-square&logo=openai&logoColor=ED93B1" />
       <br>
       <img src="https://img.shields.io/badge/claude-0d1117?style=flat-square&logo=anthropic&logoColor=ED93B1" />
       <br>
@@ -42,13 +42,13 @@
     </td>
     <td align="center" valign="top">
       <sub><b>backend · infra</b></sub><br><br>
-      <img src="https://img.shields.io/badge/node.js-0d1117?style=flat-square&logo=node.js&logoColor=ED93B1" />
+      <img src="https://img.shields.io/badge/node.js-0d1117?style=flat-square&logo=nodedotjs&logoColor=ED93B1" />
       <br>
       <img src="https://img.shields.io/badge/nestjs-0d1117?style=flat-square&logo=nestjs&logoColor=ED93B1" />
       <br>
       <img src="https://img.shields.io/badge/docker-0d1117?style=flat-square&logo=docker&logoColor=ED93B1" />
       <br>
-      <img src="https://img.shields.io/badge/aws-0d1117?style=flat-square&logo=amazonwebservices&logoColor=ED93B1" />
+      <img src="https://custom-icon-badges.demolab.com/badge/aws-0d1117?style=flat-square&logo=aws&logoColor=ED93B1" />
       <br>
       <img src="https://img.shields.io/badge/postgresql-0d1117?style=flat-square&logo=postgresql&logoColor=ED93B1" />
     </td>
