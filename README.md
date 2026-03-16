@@ -1,122 +1,80 @@
-<h1 align="center">genai engineer</h1>
-
 <p align="center">
   <img src="https://i.pinimg.com/736x/3d/99/dd/3d99ddd4ed82b3b645925f779f3ea82c.jpg" width="100%" />
 </p>
 
 <p align="center">
-  <i>
-    hello, i'm an genai engineer currently pursuing a degree in information systems and scholarship recipient at FAPEX.
-    i'm studying generative ai to improve productivity and build innovative projects.
-  </i>
+  <img src="https://img.shields.io/badge/genai%20engineer-EEEDFE?style=flat-square&color=EEEDFE&labelColor=AFA9EC" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/aiialabs-AFA9EC?style=flat-square" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/brazil-AFA9EC?style=flat-square" />
 </p>
 
 <br/>
 
-<table align="center">
-<tr>
-<td align="center" width="50%">
-<b>location</b><br/>
-brazil
-</td>
+building with **llms**, **rag** & **multiagents**.
+information systems · fapex scholarship.
+i love burgers and music.
 
-<td align="center" width="50%">
-<b>role</b><br/>
-genai engineer at 
-<a href="https://www.linkedin.com/company/aiialabs/mycompany/">aiialabs</a>
-</td>
-</tr>
-</table>
+---
 
-<br/>
+**stack**
+
+`genai`
+![openai](https://img.shields.io/badge/openai-412991?style=flat-square&logo=openai&logoColor=white)
+![claude](https://img.shields.io/badge/claude-000000?style=flat-square&logo=anthropic&logoColor=white)
+![llama](https://img.shields.io/badge/llama-044e54?style=flat-square&logo=meta&logoColor=white)
+![rag](https://img.shields.io/badge/rag-7F77DD?style=flat-square&logo=semanticweb&logoColor=white)
+
+`frontend`
+![react](https://img.shields.io/badge/react-20232a?style=flat-square&logo=react&logoColor=61dafb)
+![nextjs](https://img.shields.io/badge/next.js-000?style=flat-square&logo=nextdotjs&logoColor=white)
+![typescript](https://img.shields.io/badge/typescript-3178c6?style=flat-square&logo=typescript&logoColor=white)
+![vite](https://img.shields.io/badge/vite-646cff?style=flat-square&logo=vite&logoColor=white)
+
+`backend`
+![nodejs](https://img.shields.io/badge/node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![nestjs](https://img.shields.io/badge/nestjs-e0234e?style=flat-square&logo=nestjs&logoColor=white)
+![springboot](https://img.shields.io/badge/spring_boot-6db33f?style=flat-square&logo=springboot&logoColor=white)
+![prisma](https://img.shields.io/badge/prisma-2d3748?style=flat-square&logo=prisma&logoColor=white)
+![php](https://img.shields.io/badge/php-777bb4?style=flat-square&logo=php&logoColor=white)
+![laravel](https://img.shields.io/badge/laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![c++](https://img.shields.io/badge/c++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+
+`infra · data`
+![docker](https://img.shields.io/badge/docker-2ca5e0?style=flat-square&logo=docker&logoColor=white)
+![aws](https://img.shields.io/badge/aws-ff9900?style=flat-square&logo=amazonwebservices&logoColor=white)
+![postgresql](https://img.shields.io/badge/postgresql-316192?style=flat-square&logo=postgresql&logoColor=white)
+![mysql](https://img.shields.io/badge/mysql-005c84?style=flat-square&logo=mysql&logoColor=white)
+![redis](https://img.shields.io/badge/redis-d92c20?style=flat-square&logo=redis&logoColor=white)
+![githubactions](https://img.shields.io/badge/github_actions-2088ff?style=flat-square&logo=githubactions&logoColor=white)
+![nginx](https://img.shields.io/badge/nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+
+---
+
+**github stats**
 
 <p align="center">
-  i love burgers and music
+  <img src="https://github-readme-stats.vercel.app/api?username=ynxdeiv&show_icons=true&theme=transparent&hide_border=true&title_color=7F77DD&icon_color=7F77DD&text_color=888780&bg_color=00000000" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=ynxdeiv&theme=transparent&hide_border=true&ring=7F77DD&fire=AFA9EC&currStreakLabel=7F77DD&sideLabels=888780&dates=888780&currStreakNum=3C3489" width="48%" />
 </p>
 
 ---
 
-<h2 align="center">tech stack</h2>
+> *"i don't know what it is about you, but i feel it in my bones."*
+> <sub>— pink pantheress · just for me</sub>
 
 <p align="center">
-
-<!-- Frontend -->
-<img src="https://img.shields.io/badge/react-20232a?style=for-the-badge&logo=react&logoColor=61dafb" />
-<img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/typescript-3178c6?style=for-the-badge&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/vite-646cff?style=for-the-badge&logo=vite&logoColor=white" />
-
-<br/>
-
-<!-- Backend -->
-<img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/nestjs-e0234e?style=for-the-badge&logo=nestjs&logoColor=white" />
-<img src="https://img.shields.io/badge/prisma-2d3748?style=for-the-badge&logo=prisma&logoColor=white" />
-<img src="https://img.shields.io/badge/websocket-010101?style=for-the-badge&logo=socketdotio&logoColor=white" />
-<img src="https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
-
-<br/>
-
-<!-- Java Stack -->
-<img src="https://img.shields.io/badge/java-ed8b00?style=for-the-badge&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/spring_boot-6db33f?style=for-the-badge&logo=springboot&logoColor=white" />
-
-<br/>
-
-<!-- Databases -->
-<img src="https://img.shields.io/badge/postgresql-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/mysql-005c84?style=for-the-badge&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/redis-d92c20?style=for-the-badge&logo=redis&logoColor=white" />
-
-<br/>
-
-<!-- DevOps / Infra -->
-<img src="https://img.shields.io/badge/docker-2ca5e0?style=for-the-badge&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/github_actions-2088ff?style=for-the-badge&logo=githubactions&logoColor=white" />
-<img src="https://img.shields.io/badge/aws-ff9900?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
-<img src="https://img.shields.io/badge/linux-000000?style=for-the-badge&logo=linux&logoColor=white" />
-
-<br/>
-
-<!-- Other -->
-<img src="https://img.shields.io/badge/php-777bb4?style=for-the-badge&logo=php&logoColor=white" />
-<img src="https://img.shields.io/badge/c%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
-<img src="https://img.shields.io/badge/figma-f24e1e?style=for-the-badge&logo=figma&logoColor=white" />
-
-<br/>
-
-<!-- Generative AI -->
-<img src="https://img.shields.io/badge/rag-5f5fff?style=for-the-badge&logo=semanticweb&logoColor=white" />
-<img src="https://img.shields.io/badge/openai-412991?style=for-the-badge&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/claude-000000?style=for-the-badge&logo=anthropic&logoColor=white" />
-<img src="https://img.shields.io/badge/llama-044e54?style=for-the-badge&logo=meta&logoColor=white" />
-<img src="https://img.shields.io/badge/opencode-1a1a1a?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-<img src="https://img.shields.io/badge/opencl-0099cc?style=for-the-badge&logo=khronosgroup&logoColor=white" />
-
-</p>
-
----
-
-<h2 align="center">activity</h2>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ynxdeiv&theme=tokyo-night&bg_color=0d1117&color=ffffff&line=808080&point=cccccc&area=true&hide_border=false&border_color=333333&custom_title=contribution%20graph&radius=15" width="90%"/>
-</p>
-
----
-
-<h2 align="center">vibe</h2>
-
-<p align="center">
-  nobody beats the patient guy
-</p>
-
-<p align="center">
-  <img src="tenor.gif"/>
+  <img src="https://media1.tenor.com/m/UfxNNaklU20AAAAC/pinkpantheress-pinkpanther.gif" width="320" />
 </p>
 
 ---
 
 <p align="center">
-  check out my website: https://www.deiv.com.br
+  <a href="https://www.deiv.com.br">deiv.com.br</a> &nbsp;·&nbsp;
+  <a href="https://github.com/ynxdeiv">github</a> &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/company/aiialabs/mycompany/">linkedin</a>
 </p>
+
+<p align="center"><sub>✦ · · ✦ · · ✦</sub></p>
+COPY MARKDOWN ↗
