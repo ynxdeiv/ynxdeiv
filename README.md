@@ -1,7 +1,13 @@
-<br>
+<p align="center">
+  <img src="https://i.pinimg.com/736x/99/c5/eb/99c5eb6c60fce4cf859a36e75ff99176.jpg" width="100%" />
+</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=300&size=14&duration=3000&pause=2000&color=ED93B1&center=true&vCenter=true&width=435&lines=%22do+you+miss+me+like+i+miss+you%3F%22;%E2%80%94+pink+pantheress+%C2%B7+break+it+off" alt="quote" />
+  <sub>✦ · · ✦ · · ✦ · · ✦ · · ✦</sub>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=300&size=16&duration=3000&pause=2000&color=ED93B1&center=true&vCenter=true&width=450&lines=%22do+you+miss+me+like+i+miss+you%3F%22;%22i+feel+it+in+my+bones%22;%22just+for+me%2C+no+one+else%22" alt="quote" />
 </p>
 
 <br>
@@ -18,11 +24,13 @@
 
 <br>
 
----
+<p align="center">
+  <sub>✦ · · ✦ · · ✦ · · ✦ · · ✦</sub>
+</p>
 
 <br>
 
-<h3 align="center">stack</h3>
+<h3 align="center">✦ stack ✦</h3>
 
 <br>
 
@@ -63,11 +71,13 @@
 
 <br>
 
----
+<p align="center">
+  <sub>✦ · · ✦ · · ✦ · · ✦ · · ✦</sub>
+</p>
 
 <br>
 
-<h3 align="center">github stats</h3>
+<h3 align="center">✦ github stats ✦</h3>
 
 <br>
 
@@ -78,7 +88,34 @@
 
 <br>
 
----
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ynxdeiv&bg_color=0d1117&color=ED93B1&line=D4537E&point=ED93B1&area=true&area_color=D4537E&hide_border=true" width="95%" />
+</p>
+
+<br>
+
+<p align="center">
+  <sub>✦ · · ✦ · · ✦ · · ✦ · · ✦</sub>
+</p>
+
+<br>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/now%20listening-0d1117?style=for-the-badge&logo=youtubemusic&logoColor=ED93B1" />
+  <img src="https://img.shields.io/badge/picture%20in%20my%20mind%20—%20pinkpantheress-0d1117?style=for-the-badge&color=0d1117&labelColor=D4537E" />
+</p>
+
+<br>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=300&size=13&duration=2500&pause=1500&color=ED93B1&center=true&vCenter=true&width=500&lines=break+it+off+%C2%B7+boy's+a+liar+pt.+2+%C2%B7+just+for+me;pain+%C2%B7+attracted+to+you+%C2%B7+where+you+are;capable+of+love+%C2%B7+another+life+%C2%B7+bury+me" alt="tracks" />
+</p>
+
+<br>
+
+<p align="center">
+  <sub>✦ · · ✦ · · ✦ · · ✦ · · ✦</sub>
+</p>
 
 <br>
 
@@ -92,14 +129,10 @@
 
 <br>
 
----
-
-<br>
-
 <p align="center">
   <img src="https://media1.tenor.com/m/UfxNNaklU20AAAAC/pinkpantheress-pinkpanther.gif" width="400" />
 </p>
 
 <p align="center">
-  <sub>✦ · · ✦ · · ✦</sub>
+  <sub>✦ · · ✦ · · ✦ · · ✦ · · ✦</sub>
 </p>
