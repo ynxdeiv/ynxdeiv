@@ -2,7 +2,6 @@
      ║           deivid · ynxdeiv              ║
      ╚══════════════════════════════════════════╝  -->
 
-<br>
 
 <!-- ───────────────── HERO ───────────────── -->
 <img src="https://4kwallpapers.com/images/walls/thumbs_3t/21406.jpg"/>
@@ -37,7 +36,7 @@
 <!-- ───────────────── TYPING QUOTES ───────────────── -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=400&size=13&duration=3200&pause=2200&color=C9A96E&center=true&vCenter=true&width=600&lines=%22don%27t+you+want+me+like+I+want+you%2C+baby%3F%22+—+apt.;building+multiagents+that+think+for+themselves;%22I+worked+my+whole+life+just+to+realize%22+—+on+the+ground;turning+raw+llms+into+something+that+matters;%22sleep+tomorrow%2C+but+tonight%2C+go+crazy%22+—+apt." alt="typing" />
+<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=300&size=12&duration=4500&pause=3000&color=6e7681&center=true&vCenter=true&width=500&lines=%22sleep+tomorrow%2C+but+tonight%2C+go+crazy%22+%E2%80%94+apt." alt="closing" />
 </p>
 
 <br>
@@ -46,10 +45,6 @@
 <br>
 
 <!-- ───────────────── STACK ───────────────── -->
-
-<h3 align="center">✦ &nbsp; stack &nbsp; ✦</h3>
-
-<br>
 
 <p align="center">
   <img src="https://img.shields.io/badge/openai-0d1117?style=for-the-badge&logo=openai&logoColor=C9A96E" />
@@ -80,10 +75,6 @@
 
 
 <!-- ───────────────── GITHUB ACTIVITY ───────────────── -->
-
-<h3 align="center">✦ &nbsp; github activity &nbsp; ✦</h3>
-
-<br>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ynxdeiv&bg_color=0d1117&color=E8C98A&line=C9A96E&point=E8C98A&area=true&area_color=C9A96E&hide_border=true" width="94%" />
