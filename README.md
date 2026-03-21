@@ -5,38 +5,34 @@
 <br>
 
 <!-- ───────────────── HERO ───────────────── -->
+<img src="https://4kwallpapers.com/images/walls/thumbs_3t/21406.jpg"/>
 
-<table border="0" cellspacing="0" cellpadding="0" align="center">
-  <tr>
-    <td width="280" align="center" valign="middle">
-      <img src="https://4kwallpapers.com/images/walls/thumbs_3t/21406.jpg" width="280" height="280" />
-    </td>
-    <td width="36"></td>
-    <td valign="middle">
-      <h2>deiv</h2>
-      <samp>✦ &nbsp; genai engineer &nbsp; ✦</samp>
-      <br><br>
-      <samp>
-        building with <b>llms · rag · multiagents</b><br>
-        information systems &nbsp;·&nbsp; fapex scholarship<br>
-        i love burgers, music & rosé's discography.
-      </samp>
-      <br><br>
-      <a href="https://www.deiv.com.br">
-        <img src="https://img.shields.io/badge/deiv.com.br-C9A96E?style=flat-square&logoColor=white" />
-      </a>
-      &nbsp;
-      <a href="https://github.com/ynxdeiv">
-        <img src="https://img.shields.io/badge/github-0d1117?style=flat-square&logo=github&logoColor=C9A96E" />
-      </a>
-      &nbsp;
-      <a href="https://www.linkedin.com/company/aiialabs/mycompany/">
-        <img src="https://img.shields.io/badge/linkedin-0d1117?style=flat-square&logo=linkedin&logoColor=C9A96E" />
-      </a>
-    </td>
-  </tr>
-</table>
-
+<p align="center">
+  <h2 align="center">deiv</h2>
+  <p align="center"><samp>✦ &nbsp; genai engineer &nbsp; ✦</samp></p>
+  <br>
+  <p align="center">
+    <samp>
+      building with <b>llms · rag · multiagents</b><br>
+      information systems &nbsp;·&nbsp; fapex scholarship<br>
+      i love burgers
+    </samp>
+  </p>
+  <br>
+  <p align="center">
+    <a href="https://www.deiv.com.br">
+      <img src="https://img.shields.io/badge/deiv.com.br-C9A96E?style=flat-square&logoColor=white" />
+    </a>
+    &nbsp;
+    <a href="https://github.com/ynxdeiv">
+      <img src="https://img.shields.io/badge/github-0d1117?style=flat-square&logo=github&logoColor=C9A96E" />
+    </a>
+    &nbsp;
+    <a href="https://www.linkedin.com/company/aiialabs/mycompany/">
+      <img src="https://img.shields.io/badge/linkedin-0d1117?style=flat-square&logo=linkedin&logoColor=C9A96E" />
+    </a>
+  </p>
+</p>
 <br>
 
 <!-- ───────────────── TYPING QUOTES ───────────────── -->
@@ -95,20 +91,4 @@
 </p>
 
 <br>
-<p align="center"><sub>— ✦ — ✦ — ✦ — ✦ — ✦ ✦ — ✦ — ✦ — ✦ — ✦ ✦ — ✦ — ✦ — ✦ — ✦ ✦ — ✦ — ✦ — ✦ — ✦ ✦ — ✦ — ✦ — ✦ — ✦ ✦ — ✦ — ✦ — ✦ — ✦ ✦ — ✦ — ✦ — ✦ — ✦ </sub></p>
 
-<br>
-
-<!-- ───────────────── GIF + CLOSING ───────────────── -->
-
-<p align="center">
-  <img src="https://media.tenor.com/p5pPdDMGpGYAAAAC/rose-blackpink.gif" width="360" />
-</p>
-
-<br>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=300&size=12&duration=4500&pause=3000&color=6e7681&center=true&vCenter=true&width=500&lines=%22sleep+tomorrow%2C+but+tonight%2C+go+crazy%22+—+apt." alt="closing" />
-</p>
-
-<p align="center"><sub>— ✦ — ✦ — ✦ — ✦ — ✦ ✦ — ✦ — ✦ — ✦ — ✦ ✦ — ✦ — ✦ — ✦ — ✦ ✦ — ✦ — ✦ — ✦ — ✦ ✦ — ✦ — ✦ — ✦ — ✦ ✦ — ✦ — ✦ — ✦ — ✦ ✦ — ✦ — ✦ — ✦ — ✦ </sub></p>
