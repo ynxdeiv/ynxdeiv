@@ -1,138 +1,114 @@
-<p align="center">
-  <img src="https://i.pinimg.com/736x/99/c5/eb/99c5eb6c60fce4cf859a36e75ff99176.jpg" width="400" />
-</p>
-
-<p align="center">
-  <sub>✦ · · ✦ · · ✦ · · ✦ · · ✦</sub>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=300&size=16&duration=3000&pause=2000&color=ED93B1&center=true&vCenter=true&width=450&lines=%22do+you+miss+me+like+i+miss+you%3F%22;%22i+feel+it+in+my+bones%22;%22just+for+me%2C+no+one+else%22" alt="quote" />
-</p>
+<!--  ╔══════════════════════════════════════════╗
+     ║           deivid · ynxdeiv              ║
+     ╚══════════════════════════════════════════╝  -->
 
 <br>
 
-<h3 align="center">✦ genai engineer ✦</h3>
+<!-- ───────────────── HERO ───────────────── -->
 
-<p align="center">
-  <samp>
-    building with <b>llms</b>, <b>rag</b> & <b>multiagents</b><br>
-    information systems · fapex scholarship<br>
-    i love burgers and music.
-  </samp>
-</p>
-
-<br>
-
-<p align="center">
-  <sub>✦ · · ✦ · · ✦ · · ✦ · · ✦</sub>
-</p>
-
-<br>
-
-<h3 align="center">✦ stack ✦</h3>
-
-<br>
-
-<table align="center">
+<table border="0" cellspacing="0" cellpadding="0" align="center">
   <tr>
-    <th align="center"><samp>genai</samp></th>
-    <th align="center"><samp>frontend</samp></th>
-    <th align="center"><samp>backend · infra</samp></th>
-  </tr>
-  <tr>
-    <td align="center">
-      <br>
-      <a href="#"><img src="https://img.shields.io/badge/openai-0d1117?style=for-the-badge&logo=openai&logoColor=ED93B1" /></a><br>
-      <a href="#"><img src="https://img.shields.io/badge/claude-0d1117?style=for-the-badge&logo=anthropic&logoColor=ED93B1" /></a><br>
-      <a href="#"><img src="https://img.shields.io/badge/llama-0d1117?style=for-the-badge&logo=meta&logoColor=ED93B1" /></a><br>
-      <a href="#"><img src="https://img.shields.io/badge/rag-0d1117?style=for-the-badge&logo=semanticweb&logoColor=ED93B1" /></a>
-      <br><br>
+    <td width="210" align="center" valign="middle">
+      <img src="https://i.pinimg.com/736x/e5/1b/86/e51b863e20be49b2cae56cd87edd85d0.jpg" width="200" height="280" />
     </td>
-    <td align="center">
-      <br>
-      <a href="#"><img src="https://img.shields.io/badge/react-0d1117?style=for-the-badge&logo=react&logoColor=ED93B1" /></a><br>
-      <a href="#"><img src="https://img.shields.io/badge/next.js-0d1117?style=for-the-badge&logo=nextdotjs&logoColor=ED93B1" /></a><br>
-      <a href="#"><img src="https://img.shields.io/badge/typescript-0d1117?style=for-the-badge&logo=typescript&logoColor=ED93B1" /></a><br>
-      <a href="#"><img src="https://img.shields.io/badge/vite-0d1117?style=for-the-badge&logo=vite&logoColor=ED93B1" /></a>
+    <td width="36"></td>
+    <td valign="middle">
+      <h2>deivid</h2>
+      <samp>✦ &nbsp; genai engineer &nbsp; ✦</samp>
       <br><br>
-    </td>
-    <td align="center">
-      <br>
-      <a href="#"><img src="https://img.shields.io/badge/node.js-0d1117?style=for-the-badge&logo=nodedotjs&logoColor=ED93B1" /></a><br>
-      <a href="#"><img src="https://img.shields.io/badge/nestjs-0d1117?style=for-the-badge&logo=nestjs&logoColor=ED93B1" /></a><br>
-      <a href="#"><img src="https://img.shields.io/badge/docker-0d1117?style=for-the-badge&logo=docker&logoColor=ED93B1" /></a><br>
-      <a href="#"><img src="https://img.shields.io/badge/aws-0d1117?style=for-the-badge&logo=amazonwebservices&logoColor=ED93B1" /></a><br>
-      <a href="#"><img src="https://img.shields.io/badge/postgresql-0d1117?style=for-the-badge&logo=postgresql&logoColor=ED93B1" /></a>
+      <samp>
+        building with <b>llms · rag · multiagents</b><br>
+        information systems &nbsp;·&nbsp; fapex scholarship<br>
+        i love burgers, music & rosé's discography.
+      </samp>
       <br><br>
+      <a href="https://www.deiv.com.br">
+        <img src="https://img.shields.io/badge/deiv.com.br-C9A96E?style=flat-square&logoColor=white" />
+      </a>
+      &nbsp;
+      <a href="https://github.com/ynxdeiv">
+        <img src="https://img.shields.io/badge/github-0d1117?style=flat-square&logo=github&logoColor=C9A96E" />
+      </a>
+      &nbsp;
+      <a href="https://www.linkedin.com/company/aiialabs/mycompany/">
+        <img src="https://img.shields.io/badge/linkedin-0d1117?style=flat-square&logo=linkedin&logoColor=C9A96E" />
+      </a>
     </td>
   </tr>
 </table>
 
 <br>
 
+<!-- ───────────────── TYPING QUOTES ───────────────── -->
+
 <p align="center">
-  <sub>✦ · · ✦ · · ✦ · · ✦ · · ✦</sub>
+  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=400&size=13&duration=3200&pause=2200&color=C9A96E&center=true&vCenter=true&width=600&lines=%22don%27t+you+want+me+like+I+want+you%2C+baby%3F%22+—+apt.;building+multiagents+that+think+for+themselves;%22I+worked+my+whole+life+just+to+realize%22+—+on+the+ground;turning+raw+llms+into+something+that+matters;%22sleep+tomorrow%2C+but+tonight%2C+go+crazy%22+—+apt." alt="typing" />
 </p>
 
 <br>
-
-<h3 align="center">✦ github stats ✦</h3>
-
-<br>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ynxdeiv&show_icons=true&theme=transparent&hide_border=true&title_color=D4537E&icon_color=ED93B1&text_color=8b949e&bg_color=00000000" width="48%" />
-  <img src="https://streak-stats.demolab.com?user=ynxdeiv&theme=transparent&hide_border=true&ring=D4537E&fire=ED93B1&currStreakLabel=D4537E&sideLabels=8b949e&dates=6e7681&currStreakNum=ED93B1" width="48%" />
-</p>
+<p align="center"><sub>— ✦ — ✦ — ✦ — ✦ — ✦ ✦ — ✦ — ✦ — ✦ — ✦ ✦ — ✦ — ✦ — ✦ — ✦ ✦ — ✦ — ✦ — ✦ — ✦ ✦ — ✦ — ✦ — ✦ — ✦ ✦ — ✦ — ✦ — ✦ — ✦ ✦ — ✦ — ✦ — ✦ — ✦ </sub></p>
 
 <br>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ynxdeiv&bg_color=0d1117&color=ED93B1&line=D4537E&point=ED93B1&area=true&area_color=D4537E&hide_border=true" width="95%" />
-</p>
+<!-- ───────────────── STACK ───────────────── -->
+
+<h3 align="center">✦ &nbsp; stack &nbsp; ✦</h3>
 
 <br>
 
 <p align="center">
-  <sub>✦ · · ✦ · · ✦ · · ✦ · · ✦</sub>
+  <img src="https://img.shields.io/badge/openai-0d1117?style=for-the-badge&logo=openai&logoColor=C9A96E" />
+  <img src="https://img.shields.io/badge/claude-0d1117?style=for-the-badge&logo=anthropic&logoColor=C9A96E" />
+  <img src="https://img.shields.io/badge/llama-0d1117?style=for-the-badge&logo=meta&logoColor=C9A96E" />
+  <img src="https://img.shields.io/badge/rag-0d1117?style=for-the-badge&logo=semanticweb&logoColor=C9A96E" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/react-0d1117?style=for-the-badge&logo=react&logoColor=C9A96E" />
+  <img src="https://img.shields.io/badge/next.js-0d1117?style=for-the-badge&logo=nextdotjs&logoColor=C9A96E" />
+  <img src="https://img.shields.io/badge/typescript-0d1117?style=for-the-badge&logo=typescript&logoColor=C9A96E" />
+  <img src="https://img.shields.io/badge/vite-0d1117?style=for-the-badge&logo=vite&logoColor=C9A96E" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/node.js-0d1117?style=for-the-badge&logo=nodedotjs&logoColor=C9A96E" />
+  <img src="https://img.shields.io/badge/nestjs-0d1117?style=for-the-badge&logo=nestjs&logoColor=C9A96E" />
+  <img src="https://img.shields.io/badge/docker-0d1117?style=for-the-badge&logo=docker&logoColor=C9A96E" />
+  <img src="https://img.shields.io/badge/aws-0d1117?style=for-the-badge&logo=amazonwebservices&logoColor=C9A96E" />
+  <img src="https://img.shields.io/badge/postgresql-0d1117?style=for-the-badge&logo=postgresql&logoColor=C9A96E" />
+</p>
+
+<br>
+
+<p align="center"><sub>— ✦ — ✦ — ✦ — ✦ — ✦ ✦ — ✦ — ✦ — ✦ — ✦ ✦ — ✦ — ✦ — ✦ — ✦ ✦ — ✦ — ✦ — ✦ — ✦ ✦ — ✦ — ✦ — ✦ — ✦ ✦ — ✦ — ✦ — ✦ — ✦ ✦ — ✦ — ✦ — ✦ — ✦ </sub></p>
+
+<br>
+
+<!-- ───────────────── GITHUB ACTIVITY ───────────────── -->
+
+<h3 align="center">✦ &nbsp; github activity &nbsp; ✦</h3>
+
+<br>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ynxdeiv&bg_color=0d1117&color=E8C98A&line=C9A96E&point=E8C98A&area=true&area_color=C9A96E&hide_border=true" width="94%" />
+</p>
+
+<br>
+<p align="center"><sub>— ✦ — ✦ — ✦ — ✦ — ✦ ✦ — ✦ — ✦ — ✦ — ✦ ✦ — ✦ — ✦ — ✦ — ✦ ✦ — ✦ — ✦ — ✦ — ✦ ✦ — ✦ — ✦ — ✦ — ✦ ✦ — ✦ — ✦ — ✦ — ✦ ✦ — ✦ — ✦ — ✦ — ✦ </sub></p>
+
+<br>
+
+<!-- ───────────────── GIF + CLOSING ───────────────── -->
+
+<p align="center">
+  <img src="https://media.tenor.com/p5pPdDMGpGYAAAAC/rose-blackpink.gif" width="360" />
 </p>
 
 <br>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/now%20listening-0d1117?style=for-the-badge&logo=youtubemusic&logoColor=ED93B1" />
-  <img src="https://img.shields.io/badge/picture%20in%20my%20mind%20—%20pinkpantheress-0d1117?style=for-the-badge&color=0d1117&labelColor=D4537E" />
+  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=300&size=12&duration=4500&pause=3000&color=6e7681&center=true&vCenter=true&width=500&lines=%22sleep+tomorrow%2C+but+tonight%2C+go+crazy%22+—+apt." alt="closing" />
 </p>
 
-<br>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=300&size=13&duration=2500&pause=1500&color=ED93B1&center=true&vCenter=true&width=500&lines=break+it+off+%C2%B7+boy's+a+liar+pt.+2+%C2%B7+just+for+me;pain+%C2%B7+attracted+to+you+%C2%B7+where+you+are;capable+of+love+%C2%B7+another+life+%C2%B7+bury+me" alt="tracks" />
-</p>
-
-<br>
-
-<p align="center">
-  <sub>✦ · · ✦ · · ✦ · · ✦ · · ✦</sub>
-</p>
-
-<br>
-
-<p align="center">
-  <a href="https://www.deiv.com.br"><img src="https://img.shields.io/badge/deiv.com.br-D4537E?style=for-the-badge&logoColor=white" /></a>
-  &nbsp;
-  <a href="https://github.com/ynxdeiv"><img src="https://img.shields.io/badge/github-0d1117?style=for-the-badge&logo=github&logoColor=ED93B1" /></a>
-  &nbsp;
-  <a href="https://www.linkedin.com/company/aiialabs/mycompany/"><img src="https://img.shields.io/badge/linkedin-0d1117?style=for-the-badge&logo=linkedin&logoColor=ED93B1" /></a>
-</p>
-
-<br>
-
-<p align="center">
-  <img src="https://media1.tenor.com/m/UfxNNaklU20AAAAC/pinkpantheress-pinkpanther.gif" width="400" />
-</p>
-
-<p align="center">
-  <sub>✦ · · ✦ · · ✦ · · ✦ · · ✦</sub>
-</p>
+<p align="center"><sub>— ✦ — ✦ — ✦ — ✦ — ✦ ✦ — ✦ — ✦ — ✦ — ✦ ✦ — ✦ — ✦ — ✦ — ✦ ✦ — ✦ — ✦ — ✦ — ✦ ✦ — ✦ — ✦ — ✦ — ✦ ✦ — ✦ — ✦ — ✦ — ✦ ✦ — ✦ — ✦ — ✦ — ✦ </sub></p>
