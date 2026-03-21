@@ -35,7 +35,7 @@
 <!-- ───────────────── TYPING QUOTES ───────────────── -->
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=300&size=12&duration=4500&pause=3000&color=6e7681&center=true&vCenter=true&width=500&lines=%22sleep+tomorrow%2C+but+tonight%2C+go+crazy%22+%E2%80%94+apt." alt="closing" />
+<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=300&size=12&duration=4500&pause=3000&color=6e7681&center=true&vCenter=true&width=600&lines=%22sleep+tomorrow%2C+but+tonight%2C+go+crazy%22+%E2%80%94+apt.;%22I+worked+my+whole+life+just+to+realize%22+%E2%80%94+on+the+ground;%22everything+I+need+is+on+the+ground%22+%E2%80%94+on+the+ground;%22isn%27t+it+lonely%3F%22+%E2%80%94+number+one+girl;%22i%27d+give+it+all+up+if+you+told+me%22+%E2%80%94+number+one+girl;%22don%27t+you+want+me+like+I+want+you%2C+baby%3F%22+%E2%80%94+apt." alt="closing" />
 </p>
 
 
