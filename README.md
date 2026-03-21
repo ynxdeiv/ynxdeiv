@@ -33,7 +33,6 @@
     </a>
   </p>
 </p>
-<br>
 
 <!-- ───────────────── TYPING QUOTES ───────────────── -->
 
@@ -74,11 +73,11 @@
   <img src="https://img.shields.io/badge/postgresql-0d1117?style=for-the-badge&logo=postgresql&logoColor=C9A96E" />
 </p>
 
-<br>
+
 
 <p align="center"><sub>— ✦ — ✦ — ✦ — ✦ — ✦ ✦ — ✦ — ✦ — ✦ — ✦ ✦ — ✦ — ✦ — ✦ — ✦ ✦ — ✦ — ✦ — ✦ — ✦ ✦ — ✦ — ✦ — ✦ — ✦ ✦ — ✦ — ✦ — ✦ — ✦ ✦ — ✦ — ✦ — ✦ — ✦ </sub></p>
 
-<br>
+
 
 <!-- ───────────────── GITHUB ACTIVITY ───────────────── -->
 
@@ -90,5 +89,4 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ynxdeiv&bg_color=0d1117&color=E8C98A&line=C9A96E&point=E8C98A&area=true&area_color=C9A96E&hide_border=true" width="94%" />
 </p>
 
-<br>
 
