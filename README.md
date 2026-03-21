@@ -8,12 +8,12 @@
 
 <table border="0" cellspacing="0" cellpadding="0" align="center">
   <tr>
-    <td width="210" align="center" valign="middle">
-      <img src="https://i.pinimg.com/736x/e5/1b/86/e51b863e20be49b2cae56cd87edd85d0.jpg" width="200" height="280" />
+    <td width="280" align="center" valign="middle">
+      <img src="https://4kwallpapers.com/images/walls/thumbs_3t/21406.jpg" width="280" height="280" />
     </td>
     <td width="36"></td>
     <td valign="middle">
-      <h2>deivid</h2>
+      <h2>deiv</h2>
       <samp>✦ &nbsp; genai engineer &nbsp; ✦</samp>
       <br><br>
       <samp>
