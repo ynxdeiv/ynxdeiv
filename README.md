@@ -7,9 +7,6 @@
 
 <!-- ───────────────── HERO BANNER ───────────────── -->
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF4FA3&height=220&section=header&text=fancy%20that&fontSize=72&fontColor=FFF4E8&fontAlignY=38&desc=genai%20engineer%20%C2%B7%20llms%20%C2%B7%20rag%20%C2%B7%20multiagents&descSize=18&descAlignY=58&animation=fadeIn" width="100%" />
-</p>
 
 
 <!-- ───────────────── LINKS ───────────────── -->
@@ -103,6 +100,4 @@
 
 <!-- ───────────────── FOOTER ───────────────── -->
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FFB3D1&height=140&section=footer&text=fancy%20that.&fontSize=28&fontColor=5A2A43&fontAlignY=68&animation=twinkling" width="100%" />
-</p>
+
