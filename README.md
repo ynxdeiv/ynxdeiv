@@ -20,7 +20,7 @@
     <img src="https://img.shields.io/badge/github-C8102E?style=flat-square&logo=github&logoColor=FFF4E8" />
   </a>
   &nbsp;
-  <a href="https://www.linkedin.com/company/aiialabs/mycompany/">
+  <a href="https://www.linkedin.com/in/deivcst/">
     <img src="https://img.shields.io/badge/linkedin-1B4D3E?style=flat-square&logo=linkedin&logoColor=FFF4E8" />
   </a>
 </p>
