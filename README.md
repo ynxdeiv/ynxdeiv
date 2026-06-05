@@ -1,75 +1,108 @@
-<!--  ╔══════════════════════════════════════════╗
-     ║           deivid · ynxdeiv              ║
-     ╚══════════════════════════════════════════╝  -->
+<!--  ╔══════════════════════════════════════════════════╗
+     ║   deivid · ynxdeiv  —  "fancy that" themed readme   ║
+     ║   palette: hot pink · booth red · racing green ·    ║
+     ║            cream · crown gold                       ║
+     ╚══════════════════════════════════════════════════╝  -->
 
 
-<!-- ───────────────── HERO ───────────────── -->
-<img src="https://4kwallpapers.com/images/walls/thumbs_3t/21406.jpg"/>
-
-<p align="center">
-  <h2 align="center"><samp>✦ &nbsp; genai engineer &nbsp; ✦</samp></h2>
-  <br>
-  <p align="center">
-    <samp>
-      building with <b>llms · rag · multiagents</b><br>
-      information systems &nbsp;·&nbsp; fapex scholarship<br>
-      i love burgers
-    </samp>
-  </p>
-  <br>
-  <p align="center">
-    <a href="https://www.deiv.com.br">
-      <img src="https://img.shields.io/badge/deiv.com.br-C9A96E?style=flat-square&logoColor=white" />
-    </a>
-    &nbsp;
-    <a href="https://github.com/ynxdeiv">
-      <img src="https://img.shields.io/badge/github-0d1117?style=flat-square&logo=github&logoColor=C9A96E" />
-    </a>
-    &nbsp;
-    <a href="https://www.linkedin.com/company/aiialabs/mycompany/">
-      <img src="https://img.shields.io/badge/linkedin-0d1117?style=flat-square&logo=linkedin&logoColor=C9A96E" />
-    </a>
-  </p>
-</p>
-
-<!-- ───────────────── TYPING QUOTES ───────────────── -->
+<!-- ───────────────── HERO BANNER ───────────────── -->
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=300&size=12&duration=4500&pause=3000&color=6e7681&center=true&vCenter=true&width=600&lines=%22sleep+tomorrow%2C+but+tonight%2C+go+crazy%22+%E2%80%94+apt.;%22I+worked+my+whole+life+just+to+realize%22+%E2%80%94+on+the+ground;%22everything+I+need+is+on+the+ground%22+%E2%80%94+on+the+ground;%22isn%27t+it+lonely%3F%22+%E2%80%94+number+one+girl;%22i%27d+give+it+all+up+if+you+told+me%22+%E2%80%94+number+one+girl;%22don%27t+you+want+me+like+I+want+you%2C+baby%3F%22+%E2%80%94+apt." alt="closing" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF4FA3&height=220&section=header&text=fancy%20that&fontSize=72&fontColor=FFF4E8&fontAlignY=38&desc=genai%20engineer%20%C2%B7%20llms%20%C2%B7%20rag%20%C2%B7%20multiagents&descSize=18&descAlignY=58&animation=fadeIn" width="100%" />
 </p>
 
 
-<br>
+<!-- ───────────────── LINKS ───────────────── -->
+
+<p align="center">
+  <a href="https://www.deiv.com.br">
+    <img src="https://img.shields.io/badge/deiv.com.br-FF4FA3?style=flat-square&logo=googlechrome&logoColor=FFF4E8" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/ynxdeiv">
+    <img src="https://img.shields.io/badge/github-C8102E?style=flat-square&logo=github&logoColor=FFF4E8" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/company/aiialabs/mycompany/">
+    <img src="https://img.shields.io/badge/linkedin-1B4D3E?style=flat-square&logo=linkedin&logoColor=FFF4E8" />
+  </a>
+</p>
+
+
+<!-- ───────────────── ABOUT ───────────────── -->
+
+<p align="center">
+  <samp>
+    building with <b>llms · rag · multiagents</b><br><br>
+    information systems &nbsp;·&nbsp; fapex scholarship<br>
+    regency dreams, modern stacks &nbsp;·&nbsp; i love burgers
+  </samp>
+</p>
+
+
+<!-- ───────────────── TYPING TAGLINE ───────────────── -->
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=400&size=20&duration=4000&pause=1200&color=FF4FA3&center=true&vCenter=true&width=620&lines=fancy+that+%E2%80%94+i+build+delicate+machines;nostalgia-coded%2C+UK+garage+in+the+background;rag+pipelines+%26+soft+synths;kiss+the+build%2C+ship+the+dream" alt="tagline" />
+</p>
+
+
+<p align="center"><samp>·&nbsp;&nbsp;&nbsp;·&nbsp;&nbsp;&nbsp;·</samp></p>
+
 
 <!-- ───────────────── STACK ───────────────── -->
 
+<p align="center"><samp><b>· the toolkit ·</b></samp></p>
+
 <p align="center">
-  <img src="https://img.shields.io/badge/openai-0d1117?style=for-the-badge&logo=openai&logoColor=C9A96E" />
-  <img src="https://img.shields.io/badge/claude-0d1117?style=for-the-badge&logo=anthropic&logoColor=C9A96E" />
-  <img src="https://img.shields.io/badge/llama-0d1117?style=for-the-badge&logo=meta&logoColor=C9A96E" />
-  <img src="https://img.shields.io/badge/rag-0d1117?style=for-the-badge&logo=semanticweb&logoColor=C9A96E" />
+  <img src="https://img.shields.io/badge/openai-FF4FA3?style=for-the-badge&logo=openai&logoColor=FFF4E8" />
+  <img src="https://img.shields.io/badge/claude-FF4FA3?style=for-the-badge&logo=anthropic&logoColor=FFF4E8" />
+  <img src="https://img.shields.io/badge/llama-FF4FA3?style=for-the-badge&logo=meta&logoColor=FFF4E8" />
+  <img src="https://img.shields.io/badge/rag-FF4FA3?style=for-the-badge&logo=semanticweb&logoColor=FFF4E8" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/react-0d1117?style=for-the-badge&logo=react&logoColor=C9A96E" />
-  <img src="https://img.shields.io/badge/next.js-0d1117?style=for-the-badge&logo=nextdotjs&logoColor=C9A96E" />
-  <img src="https://img.shields.io/badge/typescript-0d1117?style=for-the-badge&logo=typescript&logoColor=C9A96E" />
-  <img src="https://img.shields.io/badge/vite-0d1117?style=for-the-badge&logo=vite&logoColor=C9A96E" />
+  <img src="https://img.shields.io/badge/react-C8102E?style=for-the-badge&logo=react&logoColor=FFF4E8" />
+  <img src="https://img.shields.io/badge/next.js-C8102E?style=for-the-badge&logo=nextdotjs&logoColor=FFF4E8" />
+  <img src="https://img.shields.io/badge/typescript-C8102E?style=for-the-badge&logo=typescript&logoColor=FFF4E8" />
+  <img src="https://img.shields.io/badge/vite-C8102E?style=for-the-badge&logo=vite&logoColor=FFF4E8" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/node.js-0d1117?style=for-the-badge&logo=nodedotjs&logoColor=C9A96E" />
-  <img src="https://img.shields.io/badge/nestjs-0d1117?style=for-the-badge&logo=nestjs&logoColor=C9A96E" />
-  <img src="https://img.shields.io/badge/docker-0d1117?style=for-the-badge&logo=docker&logoColor=C9A96E" />
-  <img src="https://img.shields.io/badge/aws-0d1117?style=for-the-badge&logo=amazonwebservices&logoColor=C9A96E" />
-  <img src="https://img.shields.io/badge/postgresql-0d1117?style=for-the-badge&logo=postgresql&logoColor=C9A96E" />
+  <img src="https://img.shields.io/badge/node.js-1B4D3E?style=for-the-badge&logo=nodedotjs&logoColor=FFF4E8" />
+  <img src="https://img.shields.io/badge/nestjs-1B4D3E?style=for-the-badge&logo=nestjs&logoColor=FFF4E8" />
+  <img src="https://img.shields.io/badge/docker-1B4D3E?style=for-the-badge&logo=docker&logoColor=FFF4E8" />
+  <img src="https://img.shields.io/badge/aws-1B4D3E?style=for-the-badge&logo=amazonwebservices&logoColor=FFF4E8" />
+  <img src="https://img.shields.io/badge/postgresql-1B4D3E?style=for-the-badge&logo=postgresql&logoColor=FFF4E8" />
 </p>
 
 
-<!-- ───────────────── GITHUB ACTIVITY ───────────────── -->
+<p align="center"><samp>·&nbsp;&nbsp;&nbsp;·&nbsp;&nbsp;&nbsp;·</samp></p>
+
+
+<!-- ───────────────── GITHUB STATS ───────────────── -->
+
+<p align="center"><samp><b>· the numbers ·</b></samp></p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ynxdeiv&bg_color=0d1117&color=E8C98A&line=C9A96E&point=E8C98A&area=true&area_color=C9A96E&hide_border=true" width="94%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ynxdeiv&show_icons=true&hide_border=true&bg_color=FFF0F6&title_color=FF4FA3&text_color=5A2A43&icon_color=1B4D3E" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ynxdeiv&layout=compact&hide_border=true&bg_color=FFF0F6&title_color=FF4FA3&text_color=5A2A43" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ynxdeiv&hide_border=true&background=FFF0F6&ring=FF4FA3&fire=C8102E&currStreakLabel=FF4FA3&sideLabels=5A2A43&currStreakNum=5A2A43&sideNums=5A2A43&dates=B98BA8" height="165" />
 </p>
 
 
+<!-- ───────────────── ACTIVITY GRAPH ───────────────── -->
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ynxdeiv&bg_color=FFF0F6&color=5A2A43&line=FF4FA3&point=C8102E&area=true&area_color=FFB3D1&hide_border=true" width="94%" />
+</p>
+
+
+<!-- ───────────────── FOOTER ───────────────── -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FFB3D1&height=140&section=footer&text=fancy%20that.&fontSize=28&fontColor=5A2A43&fontAlignY=68&animation=twinkling" width="100%" />
+</p>
