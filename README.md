@@ -61,7 +61,7 @@ composer of nothing but commits. uk garage in the background, always. i love bur
 ## now playing ୨୧
 
 <a href="https://open.spotify.com/user/22jgejypboproxztztbovwzoq">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=22jgejypboproxztztbovwzoq&count=5&unique=true" alt="spotify recently played" width="90%" />
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=22jgejypboproxztztbovwzoq&count=10&unique=true" alt="spotify recently played" />
 </a>
 
 </div>
