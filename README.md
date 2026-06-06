@@ -85,8 +85,8 @@
 <p align="center"><samp><b>· now playing ·</b></samp></p>
 
 <p align="center">
-  <a href="https://open.spotify.com/user/ynxdeiv">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=ynxdeiv&count=5" alt="spotify recently played" />
+  <a href="https://open.spotify.com/user/22jgejypboproxztztbovwzoq">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=22jgejypboproxztztbovwzoq&count=5" alt="spotify recently played" />
   </a>
 </p>
 
