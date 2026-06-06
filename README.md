@@ -6,9 +6,7 @@
 
 <!-- ════════════════════ HERO BANNER ════════════════════ -->
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,2,6&height=180&section=header&text=deivid&fontSize=70&fontColor=FFF4E8&fontAlignY=38&desc=%C2%B7%20fancy%20that%20%C2%B7%20fancy%20some%20more%20%C2%B7&descSize=14&descAlignY=58&animation=fadeIn" alt="banner" />
-</p>
+
 
 
 <!-- ════════════════════ LINKS ════════════════════ -->
