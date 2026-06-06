@@ -107,14 +107,6 @@
 
 <!-- ─── stats ─── -->
 
-<samp><b>· the numbers ·</b></samp>
-
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api?username=ynxdeiv&show_icons=true&hide_border=true&bg_color=FFF4E8&title_color=FF4FA3&text_color=5A2A43&icon_color=C8102E&card_width=320" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ynxdeiv&layout=compact&hide_border=true&bg_color=FFF4E8&title_color=FF4FA3&text_color=5A2A43&langs_count=8&card_width=320" height="165" />
-
-<br><br>
 <samp>⋆ ˚｡⋆୨୧˚ ♡ ˚୨୧⋆｡˚ ⋆</samp>
 <br><br>
 
