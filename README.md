@@ -45,90 +45,65 @@
 </p>
 
 
-<!-- ════════════════════ CENTERED CARD ════════════════════ -->
+<!-- ════════════════════ STACK ════════════════════ -->
 
-<div align="center">
+<p align="center"><samp><b>· the toolkit ·</b></samp></p>
 
-<table>
-<tr>
-<td align="center" width="720">
+<p align="center">
+  <img src="https://img.shields.io/badge/openai-FF4FA3?style=for-the-badge&logo=openai&logoColor=FFF4E8" />
+  <img src="https://img.shields.io/badge/claude-FF4FA3?style=for-the-badge&logo=anthropic&logoColor=FFF4E8" />
+  <img src="https://img.shields.io/badge/llama-FF4FA3?style=for-the-badge&logo=meta&logoColor=FFF4E8" />
+  <img src="https://img.shields.io/badge/rag-FF4FA3?style=for-the-badge&logo=semanticweb&logoColor=FFF4E8" />
+</p>
 
-<br>
+<p align="center">
+  <img src="https://img.shields.io/badge/react-C8102E?style=for-the-badge&logo=react&logoColor=FFF4E8" />
+  <img src="https://img.shields.io/badge/next.js-C8102E?style=for-the-badge&logo=nextdotjs&logoColor=FFF4E8" />
+  <img src="https://img.shields.io/badge/typescript-C8102E?style=for-the-badge&logo=typescript&logoColor=FFF4E8" />
+  <img src="https://img.shields.io/badge/vite-C8102E?style=for-the-badge&logo=vite&logoColor=FFF4E8" />
+</p>
 
-<!-- ─── stack ─── -->
+<p align="center">
+  <img src="https://img.shields.io/badge/node.js-C9A227?style=for-the-badge&logo=nodedotjs&logoColor=FFF4E8" />
+  <img src="https://img.shields.io/badge/nestjs-C9A227?style=for-the-badge&logo=nestjs&logoColor=FFF4E8" />
+  <img src="https://img.shields.io/badge/postgresql-C9A227?style=for-the-badge&logo=postgresql&logoColor=FFF4E8" />
+  <img src="https://img.shields.io/badge/docker-C9A227?style=for-the-badge&logo=docker&logoColor=FFF4E8" />
+</p>
 
-<samp><b>· the toolkit ·</b></samp>
+<p align="center">
+  <img src="https://img.shields.io/badge/aws-FFB4D8?style=for-the-badge&logo=amazonwebservices&logoColor=5A2A43" />
+  <img src="https://img.shields.io/badge/git-FFB4D8?style=for-the-badge&logo=git&logoColor=5A2A43" />
+  <img src="https://img.shields.io/badge/linux-FFB4D8?style=for-the-badge&logo=linux&logoColor=5A2A43" />
+  <img src="https://img.shields.io/badge/figma-FFB4D8?style=for-the-badge&logo=figma&logoColor=5A2A43" />
+</p>
 
-<br><br>
+<p align="center"><samp>⋆ ˚｡⋆୨୧˚ ♡ ˚୨୧⋆｡˚ ⋆</samp></p>
 
-<img src="https://img.shields.io/badge/openai-FF4FA3?style=for-the-badge&logo=openai&logoColor=FFF4E8" />
-<img src="https://img.shields.io/badge/claude-FF4FA3?style=for-the-badge&logo=anthropic&logoColor=FFF4E8" />
-<img src="https://img.shields.io/badge/llama-FF4FA3?style=for-the-badge&logo=meta&logoColor=FFF4E8" />
-<img src="https://img.shields.io/badge/rag-FF4FA3?style=for-the-badge&logo=semanticweb&logoColor=FFF4E8" />
 
-<br>
+<!-- ════════════════════ NOW PLAYING ════════════════════ -->
 
-<img src="https://img.shields.io/badge/react-C8102E?style=for-the-badge&logo=react&logoColor=FFF4E8" />
-<img src="https://img.shields.io/badge/next.js-C8102E?style=for-the-badge&logo=nextdotjs&logoColor=FFF4E8" />
-<img src="https://img.shields.io/badge/typescript-C8102E?style=for-the-badge&logo=typescript&logoColor=FFF4E8" />
-<img src="https://img.shields.io/badge/vite-C8102E?style=for-the-badge&logo=vite&logoColor=FFF4E8" />
+<p align="center"><samp><b>· now playing ·</b></samp></p>
 
-<br>
+<p align="center">
+  <a href="https://open.spotify.com/user/22jgejypboproxztztbovwzoq">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=22jgejypboproxztztbovwzoq&count=5&unique=true" alt="spotify recently played" />
+  </a>
+</p>
 
-<img src="https://img.shields.io/badge/node.js-C9A227?style=for-the-badge&logo=nodedotjs&logoColor=FFF4E8" />
-<img src="https://img.shields.io/badge/nestjs-C9A227?style=for-the-badge&logo=nestjs&logoColor=FFF4E8" />
-<img src="https://img.shields.io/badge/postgresql-C9A227?style=for-the-badge&logo=postgresql&logoColor=FFF4E8" />
-<img src="https://img.shields.io/badge/docker-C9A227?style=for-the-badge&logo=docker&logoColor=FFF4E8" />
+<p align="center"><samp>⋆ ˚｡⋆୨୧˚ ♡ ˚୨୧⋆｡˚ ⋆</samp></p>
 
-<br>
 
-<img src="https://img.shields.io/badge/aws-FFB4D8?style=for-the-badge&logo=amazonwebservices&logoColor=5A2A43" />
-<img src="https://img.shields.io/badge/git-FFB4D8?style=for-the-badge&logo=git&logoColor=5A2A43" />
-<img src="https://img.shields.io/badge/linux-FFB4D8?style=for-the-badge&logo=linux&logoColor=5A2A43" />
-<img src="https://img.shields.io/badge/figma-FFB4D8?style=for-the-badge&logo=figma&logoColor=5A2A43" />
+<!-- ════════════════════ CONTRIBUTION SNAKE ════════════════════ -->
 
-<br><br>
-<samp>⋆ ˚｡⋆୨୧˚ ♡ ˚୨୧⋆｡˚ ⋆</samp>
-<br><br>
+<p align="center"><samp><b>· the chase ·</b></samp></p>
 
-<!-- ─── now playing ─── -->
-
-<samp><b>· now playing ·</b></samp>
-
-<br><br>
-
-<a href="https://open.spotify.com/user/22jgejypboproxztztbovwzoq">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=22jgejypboproxztztbovwzoq&count=5&unique=true" alt="spotify recently played" width="640" />
-</a>
-
-<br><br>
-<samp>⋆ ˚｡⋆୨୧˚ ♡ ˚୨୧⋆｡˚ ⋆</samp>
-<br><br>
-
-<!-- ─── stats ─── -->
-
-<samp>⋆ ˚｡⋆୨୧˚ ♡ ˚୨୧⋆｡˚ ⋆</samp>
-<br><br>
-
-<!-- ─── contribution snake ─── -->
-
-<samp><b>· the chase ·</b></samp>
-
-<br><br>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ynxdeiv/ynxdeiv/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ynxdeiv/ynxdeiv/output/github-contribution-grid-snake.svg">
-  <img src="https://raw.githubusercontent.com/ynxdeiv/ynxdeiv/output/github-contribution-grid-snake.svg" alt="contribution snake" width="660" />
-</picture>
-
-<br>
-
-</td>
-</tr>
-</table>
-
-</div>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ynxdeiv/ynxdeiv/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ynxdeiv/ynxdeiv/output/github-contribution-grid-snake.svg">
+    <img src="https://raw.githubusercontent.com/ynxdeiv/ynxdeiv/output/github-contribution-grid-snake.svg" alt="contribution snake" width="94%" />
+  </picture>
+</p>
 
 
 <!-- ════════════════════ FOOTER ════════════════════ -->
