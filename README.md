@@ -7,7 +7,7 @@
 
 <!-- ════════════════════ HERO ════════════════════ -->
 
-
+<h1 align="center"><samp>deivid</samp></h1>
 
 <p align="center">
   <samp>· fancy that ·</samp>
@@ -80,18 +80,42 @@
 <p align="center"><samp>·&nbsp;&nbsp;&nbsp;·&nbsp;&nbsp;&nbsp;·</samp></p>
 
 
+<!-- ════════════════════ NOW PLAYING ════════════════════ -->
+
+<p align="center"><samp><b>· now playing ·</b></samp></p>
+
+<p align="center">
+  <a href="https://open.spotify.com/user/ynxdeiv">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=ynxdeiv&count=5" alt="spotify recently played" />
+  </a>
+</p>
+
+<p align="center"><samp>·&nbsp;&nbsp;&nbsp;·&nbsp;&nbsp;&nbsp;·</samp></p>
+
+
 <!-- ════════════════════ STATS ════════════════════ -->
 
+<p align="center"><samp><b>· the numbers ·</b></samp></p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ynxdeiv&show_icons=true&hide_border=true&bg_color=FFF0F6&title_color=FF4FA3&text_color=5A2A43&icon_color=1B4D3E" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ynxdeiv&layout=compact&hide_border=true&bg_color=FFF0F6&title_color=FF4FA3&text_color=5A2A43&langs_count=8" height="170" />
+</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=ynxdeiv&hide_border=true&background=FFF0F6&ring=FF4FA3&fire=C8102E&currStreakLabel=FF4FA3&sideLabels=5A2A43&currStreakNum=5A2A43&sideNums=5A2A43&dates=B98BA8" height="170" />
 </p>
 
 
-<!-- ════════════════════ ACTIVITY ════════════════════ -->
+<!-- ════════════════════ BOMBERMAN ════════════════════ -->
+<!-- requires the bomberman-contribution-graph GitHub Action to generate the pacman-output branch -->
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ynxdeiv&bg_color=FFF0F6&color=5A2A43&line=FF4FA3&point=C8102E&area=true&area_color=FFB3D1&hide_border=true" width="94%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ynxdeiv/ynxdeiv/pacman-output/bomberman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ynxdeiv/ynxdeiv/pacman-output/bomberman-contribution-graph.svg">
+    <img src="https://raw.githubusercontent.com/ynxdeiv/ynxdeiv/pacman-output/bomberman-contribution-graph.svg" alt="bomberman contribution graph" width="94%" />
+  </picture>
 </p>
 
 
@@ -100,5 +124,13 @@
 <p align="center"><samp>·&nbsp;&nbsp;&nbsp;·&nbsp;&nbsp;&nbsp;·</samp></p>
 
 <p align="center">
+  <img src="https://media1.tenor.com/m/G2cLAClnjwMAAAAd/lapiscel-pinkpantheress.gif" width="180" alt="pinkpantheress" />
+</p>
+
+<p align="center">
   <samp>kiss the build, ship the dream &nbsp;♡</samp>
+</p>
+
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=ynxdeiv.ynxdeiv&left_color=5A2A43&right_color=FF4FA3" alt="visitors" />
 </p>
